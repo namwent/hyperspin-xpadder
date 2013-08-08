@@ -5,5 +5,34 @@ Version=2012.12.31
 [Profile Settings]
 
 [Set Settings]
+Set1StickDeadZones=64,66
 
 [Assignments]
+Set1Button1Slots=Space
+Set1Button2Slots=Caps Lock
+Set1Button3Slots=Left Shift,2
+Set1Button4Slots=F12
+Set1Button5Slots=Semi-Colon
+Set1Button6Slots=F1
+Set1Button7Slots=Escape
+Set1Button8Slots=Enter
+Set1Button9Slots=X
+Set1Button10Slots=F
+Set1DPadUpSlots=Left Square Bracket
+Set1DPadRightSlots=Mouse Wheel Down
+Set1DPadDownSlots=Right Square Bracket
+Set1DPadLeftSlots=Mouse Wheel Up
+Set1Stick1UpSlots=W
+Set1Stick1RightSlots=D
+Set1Stick1DownSlots=S
+Set1Stick1LeftSlots=A
+Set1Stick2UpSlots=Mouse Move Up
+Set1Stick2UpMouseSpeed=32
+Set1Stick2RightSlots=Mouse Move Right
+Set1Stick2RightMouseSpeed=32
+Set1Stick2DownSlots=Mouse Move Down
+Set1Stick2DownMouseSpeed=32
+Set1Stick2LeftSlots=Mouse Move Left
+Set1Stick2LeftMouseSpeed=32
+Set1TriggerLeftSlots=Left Mouse Button (1)
+Set1TriggerRightSlots=Right Mouse Button (2)

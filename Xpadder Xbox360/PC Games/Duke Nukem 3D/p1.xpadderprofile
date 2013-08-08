@@ -1,9 +1,48 @@
-;--- Xpadder Profile File ---
-DataType=Profile
-Version=2012.12.31
-
-[Profile Settings]
-
-[Set Settings]
-
-[Assignments]
+    ;--- Xpadder Profile Data ---
+    DataType=Profile
+    Version=2012.05.01
+    Name=Duke Nukem 3D
+    Set1StickDeadZones=64,85
+    Set1Button1Name=Jump
+    Set1Button1Slots=A
+    Set1Button2Name=Inventory
+    Set1Button2Slots=Enter
+    Set1Button3Name=Open
+    Set1Button3Slots=Space
+    Set1Button4Name=Holster Weapon
+    Set1Button4Slots=Scroll Lock
+    Set1Button7Name=Map
+    Set1Button7Slots=Tab
+    Set1Button8Slots=Escape
+    Set1Button9Name=Run
+    Set1Button9Slots=Left Shift
+    Set1Button10Name=Crouch
+    Set1Button10Slots=Z
+    Set1DPadUpName=Inventory Left
+    Set1DPadUpSlots=Left Square Bracket
+    Set1DPadRightName=Next Weapon
+    Set1DPadRightSlots=Apostrophe
+    Set1DPadDownName=Inventory Right
+    Set1DPadDownSlots=Right Square Bracket
+    Set1DPadLeftName=Previous Weapon
+    Set1DPadLeftSlots=Semi-Colon
+    Set1Stick1UpName=Move Forward
+    Set1Stick1UpSlots=Arrow Up
+    Set1Stick1RightName=Strafe Right
+    Set1Stick1RightSlots=Dot
+    Set1Stick1DownName=Move Backward
+    Set1Stick1DownSlots=Arrow Down
+    Set1Stick1LeftName=Strafe Left
+    Set1Stick1LeftSlots=Comma
+    Set1Stick2UpSlots=Mouse Move Up
+    Set1Stick2UpMouseSpeed=75
+    Set1Stick2RightSlots=Mouse Move Right
+    Set1Stick2RightMouseSpeed=75
+    Set1Stick2DownSlots=Mouse Move Down
+    Set1Stick2DownMouseSpeed=75
+    Set1Stick2LeftSlots=Mouse Move Left
+    Set1Stick2LeftMouseSpeed=75
+    Set1TriggerLeftName=Quick Kick
+    Set1TriggerLeftSlots=Back-Tick
+    Set1TriggerRightName=Fire
+    Set1TriggerRightSlots=Left Mouse Button (1)

@@ -1,9 +1,32 @@
-;--- Xpadder Profile File ---
-DataType=Profile
-Version=2012.12.31
-
-[Profile Settings]
-
-[Set Settings]
-
-[Assignments]
+    ;--- Xpadder Profile Data ---
+    DataType=Profile
+    Version=2012.12.31
+    Name=Game - Duke Nukem Manhattan Project
+    Set1Button1Name=Jump
+    Set1Button1Slots=Left Control
+    Set1Button2Name=Kick
+    Set1Button2Slots=Space
+    Set1Button3Name=Attack
+    Set1Button3Slots=Alt
+    Set1Button4Name=Pipe Bomb
+    Set1Button4Slots=Z
+    Set1Button7Name=Escape
+    Set1Button7Slots=Escape
+    Set1Button8Name=Enter
+    Set1Button8Slots=Enter
+    Set1DPadUpSlots=Arrow Up
+    Set1DPadRightSlots=Arrow Right
+    Set1DPadDownSlots=Arrow Down
+    Set1DPadLeftSlots=Arrow Left
+    Set1Stick1UpSlots=Arrow Up
+    Set1Stick1RightSlots=Arrow Right
+    Set1Stick1DownSlots=Arrow Down
+    Set1Stick1LeftSlots=Arrow Left
+    Set1Stick2RightName=Next Weapon
+    Set1Stick2RightSlots=NumPad 3
+    Set1Stick2LeftName=Previous Weapon
+    Set1Stick2LeftSlots=NumPad 1
+    Set1TriggerLeftName=Look
+    Set1TriggerLeftSlots=Right Control
+    Set1TriggerRightName=Zoom
+    Set1TriggerRightSlots=X

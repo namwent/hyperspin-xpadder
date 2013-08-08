@@ -7,3 +7,14 @@ Version=2012.12.31
 [Set Settings]
 
 [Assignments]
+Set1Button1Slots=Left Control
+Set1Button2Slots=Alt
+Set1Button7Slots=Enter
+Set1Button8Slots=Escape
+Set1Stick1UpSlots=Arrow Up
+Set1Stick1RightSlots=Arrow Right
+Set1Stick1DownSlots=Arrow Down
+Set1Stick1LeftSlots=Arrow Left
+Set1Stick2UpSlots=Page Up
+Set1Stick2DownSlots=Page Down
+Set1TriggerLeftSlots=Alt

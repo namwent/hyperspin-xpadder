@@ -1,9 +1,58 @@
-;--- Xpadder Profile File ---
-DataType=Profile
-Version=2012.12.31
+    ;--- Xpadder Profile File ---
+    DataType=Profile
+    Version=2011.06.24
+    Name= Deus Ex: Invisible War
 
-[Profile Settings]
+    [Set Settings]
 
-[Set Settings]
-
-[Assignments]
+    [Assignments]
+    Set1Button1Name=Select (Alternate)
+    Set1Button1Slots=Right Mouse Button (2),Enter
+    Set1Button2Name=Toolbelt
+    Set1Button2Slots=NumPad 1
+    Set1Button3Name=Inventory Menu
+    Set1Button3Slots=V
+    Set1Button4Name=Jump/Mantle
+    Set1Button4Slots=Space
+    Set1Button5Name=Biomod Menu
+    Set1Button5Slots=B
+    Set1Button6Name=Datavault Menu
+    Set1Button6Slots=N
+    Set1Button7Name=Menu
+    Set1Button7Slots=Escape
+    Set1Button9Name=Walk Toggle
+    Set1Button9Slots=Left Shift
+    Set1Button10Name=Crouch Toggle
+    Set1Button10Slots=C
+    Set1DPadUpName=Previous Selection
+    Set1DPadUpSlots=NumPad 5
+    Set1DPadRightName=Focus on Biomods
+    Set1DPadRightSlots=NumPad 3
+    Set1DPadDownName=Next Selection
+    Set1DPadDownSlots=NumPad 2
+    Set1DPadLeftName=Focus on Toolbelt
+    Set1DPadLeftSlots=NumPad 1
+    Set1Stick1UpName=Forward
+    Set1Stick1UpSlots=W,Arrow Up
+    Set1Stick1RightName=Strafe Right
+    Set1Stick1RightSlots=D,Arrow Right
+    Set1Stick1DownName=Backward
+    Set1Stick1DownSlots=S,Arrow Down
+    Set1Stick1LeftName=Strafe Left
+    Set1Stick1LeftSlots=A,Arrow Left
+    Set1Stick2UpName=Look
+    Set1Stick2UpSlots=Mouse Move Up
+    Set1Stick2UpMouseSpeed=32
+    Set1Stick2RightName=Look
+    Set1Stick2RightSlots=Mouse Move Right
+    Set1Stick2RightMouseSpeed=32
+    Set1Stick2DownName=Look
+    Set1Stick2DownSlots=Mouse Move Down
+    Set1Stick2DownMouseSpeed=32
+    Set1Stick2LeftName=Look
+    Set1Stick2LeftSlots=Mouse Move Left
+    Set1Stick2LeftMouseSpeed=32
+    Set1TriggerLeftName=Alt Fire
+    Set1TriggerLeftSlots=F
+    Set1TriggerRightName=Fire
+    Set1TriggerRightSlots=Left Mouse Button (1)

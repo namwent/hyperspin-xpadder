@@ -5,5 +5,56 @@ Version=2012.12.31
 [Profile Settings]
 
 [Set Settings]
+Set2DPadMode=EightWay
 
 [Assignments]
+Set1Button1Name=Flare
+Set1Button1Slots=F
+Set1Button2Name=Bomb
+Set1Button2Slots=B
+Set1Button3Name=Rear View
+Set1Button3Slots=R
+Set1Button4Name=Map
+Set1Button4Slots=Tab
+Set1Button5Name=Bank Left
+Set1Button5Slots=Q
+Set1Button5SetSelect=1
+Set1Button6Name=Bank Right
+Set1Button6Slots=E
+Set1Button6SetSelect=2
+Set1Button7Name=Esc
+Set1Button7Slots=Escape
+Set1Button8Name=Enter
+Set1Button8Slots=Enter
+Set1DPadRightName=Save Game
+Set1DPadRightSlots=Alt,F2
+Set1DPadLeftName=Load Game
+Set1DPadLeftSlots=Alt,F3
+Set1Stick1UpName=Accelerate
+Set1Stick1UpSlots=A
+Set1Stick1RightName=Slide Right
+Set1Stick1RightSlots=NumPad 3
+Set1Stick1DownName=Reverse
+Set1Stick1DownSlots=Z
+Set1Stick1LeftName=Slide Left
+Set1Stick1LeftSlots=NumPad 1
+Set1Stick2UpSlots=Arrow Down
+Set1Stick2RightSlots=Arrow Right
+Set1Stick2DownSlots=Arrow Up
+Set1Stick2LeftSlots=Arrow Left
+Set1TriggerLeftName=Fire Secondary
+Set1TriggerLeftSlots=Space
+Set1TriggerRightName=Fire Primary
+Set1TriggerRightSlots=Left Control
+Set2Button5SetSelect=0
+Set2DPadUpSlots=2
+Set2DPadRightSlots=4
+Set2DPadDownSlots=6
+Set2DPadLeftSlots=8
+Set2DPadUpRightSlots=3
+Set2DPadDownRightSlots=5
+Set2DPadDownLeftSlots=7
+Set2DPadUpLeftSlots=1
+Set3Button6SetSelect=0
+Set3DPadUpSlots=9
+Set3DPadRightSlots=0
