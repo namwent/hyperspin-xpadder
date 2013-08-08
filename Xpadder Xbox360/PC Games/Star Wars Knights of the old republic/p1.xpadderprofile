@@ -1,0 +1,61 @@
+    ;--- Xpadder Profile File ---
+	;Options -> Gameplay]
+	;Turn on Mouse Look
+	;
+	;Optional Change
+	;[Options -> Gameplay -> Key Mapping -> Mini Games tab]
+	;Change "Mini-Game Action" key binding to R to enable ImageImage as a button for mini-game actions. ImageImage will always work for this regardless of whether you make this change.
+    DataType=Profile
+    Version=2010.11.17
+    Name=Star Wars Knights of the Old Republic XInput
+
+    [Set Settings]
+    Set1StickDeadZones=78,64
+    Set1DPadMode=FourWay
+
+    [Assignments]
+    Set1Button1Name=Interact/Std Wpn Pwr
+    Set1Button1Slots=Enter,R
+    Set1Button2Name=Off. Pwr/Stealth
+    Set1Button2Slots=RELEASE ZONE 0.01s,2,RELEASE ZONE 1.30s,HOLD ZONE 1.30s,G
+    Set1Button3Name=Wpn. Pwr
+    Set1Button3Slots=RELEASE ZONE 0.01s,1,RELEASE ZONE 1.30s,HOLD ZONE 1.30s,X
+    Set1Button4Name=Cancel Attack
+    Set1Button4Slots=RELEASE ZONE 0.01s,Y,RELEASE ZONE 1.30s,HOLD ZONE 1.30s,F
+    Set1Button5Name=Switch Char/Solo Mode
+    Set1Button5Slots=RELEASE ZONE 0.01s,Tab,RELEASE ZONE 1.00s,HOLD ZONE 1.00s,V
+    Set1Button6Name=Click
+    Set1Button6Slots=Left Mouse Button (1)
+    Set1Button7Name=Pause/QLoad
+    Set1Button7Slots=RELEASE ZONE 0.01s,Space,RELEASE ZONE 1.00s,HOLD ZONE 2.75s,F5,HOLD ZONE 0.20s
+    Set1Button8Name=Menu/Close/QSave
+    Set1Button8Slots=RELEASE ZONE 0.01s,Escape,RELEASE ZONE 2.00s,HOLD ZONE 1.50s,F4,HOLD ZONE 0.20s
+    Set1Button9Name=Pause
+    Set1Button9Slots=Space
+    Set1Button10Slots=Right Mouse Button (2)
+    Set1Button10Toggle=1
+    Set1DPadUpName=Grenade/Mine
+    Set1DPadUpSlots=RELEASE ZONE 0.01s,3,Arrow Up,RELEASE ZONE 1.30s,HOLD ZONE 1.30s,7
+    Set1DPadRightName=Med Pack
+    Set1DPadRightSlots=5,Arrow Right
+    Set1DPadDownName=Non-Medical Item
+    Set1DPadDownSlots=6,Arrow Down
+    Set1DPadLeftName=Def. Power
+    Set1DPadLeftSlots=4,Arrow Left
+    Set1Stick1UpName=Walk/Run
+    Set1Stick1UpSlots=W,Arrow Up,Mouse Wheel Up,B,DISTANCE ZONE 60%,W,Arrow Up,Mouse Wheel Up
+    Set1Stick1RightSlots=C,Arrow Right,B,DISTANCE ZONE 60%,C,Arrow Right
+    Set1Stick1DownSlots=S,Arrow Down,Mouse Wheel Down,B,DISTANCE ZONE 60%,S,Arrow Down,Mouse Wheel Down
+    Set1Stick1LeftSlots=Z,Arrow Left,B,DISTANCE ZONE 60%,Z,Arrow Left
+    Set1Stick2UpSlots=Mouse Move Up
+    Set1Stick2UpMouseSpeed=40
+    Set1Stick2RightSlots=Mouse Move Right
+    Set1Stick2RightMouseSpeed=40
+    Set1Stick2DownSlots=Mouse Move Down
+    Set1Stick2DownMouseSpeed=40
+    Set1Stick2LeftSlots=Mouse Move Left
+    Set1Stick2LeftMouseSpeed=40
+    Set1TriggerLeftName=Change Target
+    Set1TriggerLeftSlots=Q
+    Set1TriggerRightName=Change Target
+    Set1TriggerRightSlots=E

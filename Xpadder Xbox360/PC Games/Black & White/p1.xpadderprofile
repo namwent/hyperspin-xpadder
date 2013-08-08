@@ -1,0 +1,19 @@
+;--- Xpadder Profile File ---
+DataType=Profile
+Version=2012.12.31
+
+[Profile Settings]
+
+[Set Settings]
+
+[Assignments]
+Set1Stick1UpSlots=Mouse Move Up
+Set1Stick1UpMouseSpeed=32
+Set1Stick1RightSlots=Mouse Move Right
+Set1Stick1RightMouseSpeed=32
+Set1Stick1DownSlots=Mouse Move Down
+Set1Stick1DownMouseSpeed=32
+Set1Stick1LeftSlots=Mouse Move Left
+Set1Stick1LeftMouseSpeed=32
+Set1TriggerLeftSlots=Right Mouse Button (2)
+Set1TriggerRightSlots=Left Mouse Button (1)

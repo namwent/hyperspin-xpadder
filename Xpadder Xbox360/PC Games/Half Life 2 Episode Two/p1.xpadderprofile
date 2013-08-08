@@ -1,0 +1,93 @@
+    ;--- Xpadder Profile Data ---
+	;I created an Xpadder profile for Half-Life 2, Episodes 1 & 2 on the PC. The button layout is the same as Orange Box on the Xbox 360.
+
+	;Controls:
+
+	;Set 1:
+	;Left Analog = Forward, Backward, Strafe Left, Strafe Right
+	;Left Analog Button = Crouch
+	;Right Analog = Look
+	;Right Analog Button = Zoom
+	;Start = Menu
+	;Back = Move Squad
+	;X = Use
+	;A = Jump
+	;B = Reload
+	;Y = Flashlight
+	;LT = Secondary Attack
+	;RT = Primary Attack
+	;LB = Sprint
+	;RB = Toggle Gravity Gun/Last Weapon
+	;D-Pad Up = Next Weapon
+	;D-Pad Down = Previous Weapon
+	;D-Pad Left = Last Weapon
+	;D-Pad Right = Gravity Gun
+
+	;Set 2 (Same as Set 1 except):
+	;LT = Primary Attack
+	;RT = Secondary Attack
+
+    Version=2010.03.18
+    Name=Half-Life 2
+    Set1Button1Slots=Space
+    Set1Button2Slots=R
+    Set1Button3Slots=E
+    Set1Button4Slots=F
+    Set1Button5Slots=Left Shift
+    Set1Button5Toggle=1
+    Set1Button6Slots=G,CYCLE STOP,Q,CYCLE STOP
+    Set1Button7Slots=C
+    Set1Button8Slots=Escape
+    Set1Button9Slots=Left Control
+    Set1Button9Toggle=1
+    Set1Button10Slots=Z
+    Set1Button10Toggle=1
+    Set1DPadUpSlots=Mouse Wheel Down
+    Set1DPadRightSlots=G
+    Set1DPadDownSlots=Mouse Wheel Up
+    Set1DPadLeftSlots=Q
+    Set1Stick1UpSlots=W
+    Set1Stick1RightSlots=D
+    Set1Stick1DownSlots=S
+    Set1Stick1LeftSlots=A
+    Set1Stick2UpSlots=Mouse Move Up
+    Set1Stick2UpMouseSpeed=64
+    Set1Stick2RightSlots=Mouse Move Right
+    Set1Stick2RightMouseSpeed=64
+    Set1Stick2DownSlots=Mouse Move Down
+    Set1Stick2DownMouseSpeed=64
+    Set1Stick2LeftSlots=Mouse Move Left
+    Set1Stick2LeftMouseSpeed=64
+    Set1TriggerLeftSlots=Right Mouse Button (2)
+    Set1TriggerRightSlots=Left Mouse Button (1)
+    Set2Button1Slots=Space
+    Set2Button2Slots=R
+    Set2Button3Slots=E
+    Set2Button4Slots=F
+    Set2Button5Slots=Left Shift
+    Set2Button5Toggle=1
+    Set2Button6Slots=G,CYCLE STOP,Q,CYCLE STOP
+    Set2Button7Slots=C
+    Set2Button8Slots=Escape
+    Set2Button9Slots=Left Control
+    Set2Button9Toggle=1
+    Set2Button10Slots=Z
+    Set2Button10Toggle=1
+    Set2DPadUpSlots=Mouse Wheel Down
+    Set2DPadRightSlots=G
+    Set2DPadDownSlots=Mouse Wheel Up
+    Set2DPadLeftSlots=Q
+    Set2Stick1UpSlots=W
+    Set2Stick1RightSlots=D
+    Set2Stick1DownSlots=S
+    Set2Stick1LeftSlots=A
+    Set2Stick2UpSlots=Mouse Move Up
+    Set2Stick2UpMouseSpeed=64
+    Set2Stick2RightSlots=Mouse Move Right
+    Set2Stick2RightMouseSpeed=64
+    Set2Stick2DownSlots=Mouse Move Down
+    Set2Stick2DownMouseSpeed=64
+    Set2Stick2LeftSlots=Mouse Move Left
+    Set2Stick2LeftMouseSpeed=64
+    Set2TriggerLeftSlots=Left Mouse Button (1)
+    Set2TriggerRightSlots=Right Mouse Button (2)

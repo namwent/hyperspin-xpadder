@@ -1,0 +1,38 @@
+;--- Xpadder Profile File ---
+DataType=Profile
+Version=2012.12.31
+
+[Profile Settings]
+KeyTapTime=23
+
+[Set Settings]
+Set1StickDeadZones=220,187
+Set1StickDiagonalSizes=67,45
+Set1Stick1Mode=EightWay
+Set1Stick2Mode=EightWay
+
+[Assignments]
+Set1Button1Slots=Space
+Set1Button2Slots=Left Control
+Set1Button3Slots=E
+Set1Button4Slots=Mouse Wheel Up
+Set1Button5Slots=Q
+Set1Button6Slots=R
+Set1Button7Slots=Escape
+Set1Button8Slots=Enter
+Set1DPadUpSlots=Mouse Wheel Up
+Set1DPadDownSlots=Mouse Wheel Down
+Set1Stick1UpSlots=W
+Set1Stick1RightSlots=D
+Set1Stick1DownSlots=S
+Set1Stick1LeftSlots=A
+Set1Stick2UpSlots=Mouse Move Up
+Set1Stick2UpMouseSpeed=47
+Set1Stick2RightSlots=Mouse Move Right
+Set1Stick2RightMouseSpeed=47
+Set1Stick2DownSlots=Mouse Move Down
+Set1Stick2DownMouseSpeed=47
+Set1Stick2LeftSlots=Mouse Move Left
+Set1Stick2LeftMouseSpeed=47
+Set1TriggerLeftSlots=Left Mouse Button (1)
+Set1TriggerRightSlots=Right Mouse Button (2)
